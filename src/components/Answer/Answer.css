@@ -1,0 +1,25 @@
+.answers {
+    display: flex;
+}
+
+.answer-btn {
+    border-radius: 5px;
+    cursor: auto;
+}
+
+.unanswered {
+    background-color: white;
+}
+.selected {
+    background-color: #d6dbf5;
+}
+
+.correctAnswer {
+    border: none;
+    background-color: #94d7a2;
+}
+
+.answeredIncorrectly {
+    opacity: 0.5;
+    background-color: #f8bcbc;
+}
