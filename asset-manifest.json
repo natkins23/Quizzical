@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/Quizzical/static/css/main.df9c07be.css",
-    "main.js": "/Quizzical/static/js/main.de63b03e.js",
+    "main.css": "/Quizzical/static/css/main.d28cb3fd.css",
+    "main.js": "/Quizzical/static/js/main.bb3ff0ae.js",
+    "static/media/desert.png": "/Quizzical/static/media/desert.5190d059a7f79f424a6a.png",
+    "static/media/cloud3.png": "/Quizzical/static/media/cloud3.09158628418446cde9a3.png",
+    "static/media/cloud2.png": "/Quizzical/static/media/cloud2.bc2a858a3517e0d1e97e.png",
+    "static/media/cloud1.png": "/Quizzical/static/media/cloud1.86f16b0187e605e30450.png",
+    "static/media/cloud6.png": "/Quizzical/static/media/cloud6.389fc836bddfade22d3d.png",
+    "static/media/cloud5.png": "/Quizzical/static/media/cloud5.c604d9bfae40bd25e762.png",
+    "static/media/cloud4.png": "/Quizzical/static/media/cloud4.4f548cbb2510fff34cc1.png",
     "index.html": "/Quizzical/index.html",
-    "main.df9c07be.css.map": "/Quizzical/static/css/main.df9c07be.css.map",
-    "main.de63b03e.js.map": "/Quizzical/static/js/main.de63b03e.js.map"
+    "main.d28cb3fd.css.map": "/Quizzical/static/css/main.d28cb3fd.css.map",
+    "main.bb3ff0ae.js.map": "/Quizzical/static/js/main.bb3ff0ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.df9c07be.css",
-    "static/js/main.de63b03e.js"
+    "static/css/main.d28cb3fd.css",
+    "static/js/main.bb3ff0ae.js"
   ]
 }
